@@ -11,10 +11,15 @@ An interactive Power BI dashboard analyzing global hospitality market trends, pr
 - **📂 Power BI Project File:** Uploaded directly to this repository as a `.pbix` file (download to view full technical configurations and modeling).
 
 ---
-## 📌 Problem Statement
-Raw marketplace data containing over 250,000 global short-term rental listings and 5 million historical reviews presents a critical business barrier for stakeholders: without a unified business intelligence environment, core operational metrics remain trapped in silos. Marketplace managers and real estate investors struggle to isolate localized market anomalies, identify critical property price factors, map seasonal consumer interest, or rank cross-city travel value accurately. 
 
-This project bridges that gap by directly answering the foundational challenge questions from Maven Analytics and scaling the dashboard into a custom, data-driven pricing optimization platform.
+## 📸 Executive Dashboard Landing Page
+![Home Page](Home_Page.png)
+
+---
+## 📌 Problem Statement
+Raw hospitality marketplace data containing over 250,000 global short-term rental listings and 5 million historical reviews presents a critical barrier for stakeholders: without a unified business intelligence layer, core operational metrics remain trapped in data silos. Marketplace managers and real estate investors struggle to isolate localized supply anomalies, identify critical property price drivers, map seasonal consumer interest waves, or evaluate cross-city travel value accurately. 
+
+This project bridges that business gap by directly answering the foundational challenge questions proposed by Maven Analytics and scaling the dashboard architecture into a custom, data-driven pricing optimization platform.
 
 ---
 ## 📋 Recommended Tasks & Applied Solutions
