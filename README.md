@@ -34,10 +34,17 @@ Before diving into granular questions, the analysis establishes a global macro-c
 ![Market Overview](Market_Overview.png)
 
 ---
+### 1. Cross-City Market Variance Mapping & 4. Travel Value Optimization
+* **The Business Challenges:** *Can you spot any major differences in the Airbnb market between cities?* & *Which city offers a better value for travel?*
+* **The Applied Solution & Data Narrative:** Architected a dual-layered market page combining a Pareto distribution for market share tracking with an operational rating heatmap matrix. 
+  * **Market Differences:** The analysis proves a massive volume imbalance. Just three cities—**Paris, New York, and Sydney**—dominate the global ecosystem, commanding nearly **50% of all listings** and **48% of total reviews** across the 10-city dataset. 
+  * **Travel Value & Operations:** Traditional hotel room rates in **Paris** average twice the price of an Airbnb listing, creating a massive cost-saving incentive that makes it the platform's volume leader. For pure quality value, **Mexico City and Rio de Janeiro** lead the platform in absolute customer satisfaction ratings, whereas subcategories like **Cleanliness** and **Value for Money** emerge as recurring operational weaknesses across most other volume-heavy baseline cities.
 
-### 2. Core Pricing Drivers Assessment
-* **The Business Challenge:** *Which attributes have the biggest influence on price?*
-* **The Applied Solution:** Designed an inventory pricing baseline that structures average listings against specific accommodation types. The analysis explicitly demonstrates that property type and accommodation capacity exert the highest statistical impact on price variance. Hotel rooms command the highest platform premium at an average price of $800, followed by entire homes at $673, whereas private room alternatives establish the competitive baseline floor at $462.
+#### 📊 Ratings & Market Share Visualizations:
+![Ratings Analysis 1](Ratings1.png)
+![Ratings Analysis 2](Ratings2.png)
+
+---
 
 ### 3. Seasonality & Review Trend Extraction
 * **The Business Challenge:** *Are you able to identify any trends or seasonality in the review data?*
