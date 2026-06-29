@@ -68,3 +68,12 @@ Beyond answering the standard dataset requirements, the dashboard introduces a c
 ![Price and Room Analysis](Price_Room_Analysis.png)
 
 ---
+## ⚙️ Technical Tool Stack & Development Workflow
+- **Power BI Desktop:** The foundational architecture used for relationship data modeling, visualization engineering, and UI/UX custom layout design.
+- **Power Query Editor:** Applied for complex ETL pipelines—handling crucial data type modifications, cleaning missing review distributions, and establishing column parameters.
+- **DAX (Data Analysis Expressions):** Hand-wrote custom measures to run dynamic calculations across multiple filtered states:
+  - `CALCULATE`, `FILTER`, `ALLSELECTED` for dynamic cumulative market shares and city percentages.
+  - `DIVIDE` and `DISTINCTCOUNT` for precise customer rating averages and localized pricing distribution baselines.
+
+---
+
