@@ -77,3 +77,14 @@ Beyond answering the standard dataset requirements, the dashboard introduces a c
 
 ---
 
+## 🏁 Conclusion
+This project successfully takes a huge public dataset from Maven Analytics and turns it into a clear, easy-to-read dashboard. 
+
+By organizing the data into separate pages, we can easily see the big picture of how Airbnb grew over the years, which cities have the most listings, and what seasons are the busiest for travel. On top of that, the custom analysis page proves that property types and guest capacities have a massive impact on rental prices, especially with noticeable price jumps for larger guest sizes. 
+
+---
+
+## 🔮 Future Work
+If I continue to build on this project in the future, my next steps would be:
+1. **Adding More Recent Data:** Bringing in newer dataset records past 2021 to see how global travel trends have shifted in recent years.
+2. **Deep-Dive Regional Filters:** Creating smaller, more specific filters to let users look closely at individual neighborhoods within a chosen city.
