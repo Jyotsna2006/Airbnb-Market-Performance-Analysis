@@ -45,10 +45,16 @@ Before diving into granular questions, the analysis establishes a global macro-c
 ![Ratings Analysis 2](Ratings2.png)
 
 ---
-
 ### 3. Seasonality & Review Trend Extraction
 * **The Business Challenge:** *Are you able to identify any trends or seasonality in the review data?*
-* **The Applied Solution:** Built a seasonal time-series matrix utilizing a 100% stacked area flow visualization to isolate macro travel waves across calendar months. The dataset successfully exposes distinct, localized seasonal booking spikes: Paris and Rome experience heavy travel review peaks from April through August, whereas New York experiences an isolated demand spike during November and December.
+* **The Applied Solution & Data Narrative:** Extracted data from over 5 million reviews, utilizing a review-frequency distribution chart paired with a 100% stacked area flow visualization.
+  * **User Habits:** The metrics reveal that traveler engagement is highly transactional—**86% of all reviewers post only a single time**, and 99% submit 3 or fewer historical reviews.
+  * **Seasonality Waves:** The area matrix exposes beautiful, region-specific travel trends. European cultural hubs like **Paris and Rome** experience heavy, concentrated review peaks during the summer months (**April through August**), whereas **New York** sees its travel demand spike heavily in **November and December** for winter holiday travel.
+
+#### 📊 Reviews & Seasonality Visualization:
+![Reviews and Seasonality](Reviews.png)
+
+---
 
 ### 4. Travel Value Optimization Analysis
 * **The Business Challenge:** *Which city offers a better value for travel?*
