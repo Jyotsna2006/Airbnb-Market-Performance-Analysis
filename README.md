@@ -22,13 +22,18 @@ Raw hospitality marketplace data containing over 250,000 global short-term renta
 This project bridges that business gap by directly answering the foundational challenge questions proposed by Maven Analytics and scaling the dashboard architecture into a custom, data-driven pricing optimization platform.
 
 ---
-## 📋 Recommended Tasks & Applied Solutions
+## 📋 Recommended Tasks, Applied Solutions & Visualizations
 
-Here is how each standard operational requirement was successfully analyzed, mapped, and solved within the interactive dashboard:
+Before diving into granular questions, the analysis establishes a global macro-context baseline to view the entire scope of the dataset:
 
-### 1. Cross-City Market Variance Mapping
-* **The Business Challenge:** *Can you spot any major differences in the Airbnb market between cities?*
-* **The Applied Solution:** Architected a dual-layered market breakdown using a Pareto distribution to evaluate total supply alongside localized performance patterns. The dashboard highlights that Paris, New York, and Sydney generate nearly 50% of all platform listings and 48% of global customer feedback reviews. Concurrently, the operational analysis reveals that Mexico City and Rio de Janeiro lead the platform in absolute traveler satisfaction ratings, while subcategories like **Cleanliness** and **Value for Money** represent recurring operational weaknesses across most baseline cities.
+### 🌐 Macro-Context: Global Market Scale & Timeline Analysis
+* **The Business Purpose:** Before answering specific localized questions, a business stakeholder must understand the historical timeline baseline. This page functions as the macro-narrative, tracking how the global platform scaled and identifying market shocks.
+* **The Applied Solution & Data Narrative:** Developed a historical timeline tracking total supply growth from launch through 2021. The visualization successfully isolates distinct macroeconomic phases: rapid expansion from launch until the **2015 global peak**, a deliberate structural slowdown during **2016–2017** as cities began enforcing stricter local regulations, a brief market recovery, and a sudden marketplace halt in **2020** driven by the global COVID-19 pandemic.
+
+#### 📊 Market Overview Visualization:
+![Market Overview](Market_Overview.png)
+
+---
 
 ### 2. Core Pricing Drivers Assessment
 * **The Business Challenge:** *Which attributes have the biggest influence on price?*
