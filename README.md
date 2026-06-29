@@ -3,7 +3,7 @@ An interactive Power BI dashboard analyzing global hospitality market trends, pr
 
 # Airbnb Global Performance Analysis Dashboard
 
-#📊 Dashboard & Project Access
+## 📊 Dashboard & Project Access
 
 - **🚀 Live Interactive Dashboard:** [View Live Report Here](https://app.powerbi.com/view?r=eyJrIjoiZmZlOGZkMGMtNWY2Zi00NGQ3LWEzNzQtMDZjNjU1MDM2ODU1IiwidCI6ImRkM2U0NjExLWJlMjktNDg2ZC05ODdkLTViYjE2NzEwZjBhZCJ9)
 - **🎬 Presentation & Walkthrough Video:** [Watch Video Here](INSERT_YOUR_LINKEDIN_VIDEO_LINK_HERE)
