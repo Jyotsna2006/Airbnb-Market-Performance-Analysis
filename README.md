@@ -55,19 +55,16 @@ Before diving into granular questions, the analysis establishes a global macro-c
 ![Reviews and Seasonality](Reviews.png)
 
 ---
-
-### 4. Travel Value Optimization Analysis
-* **The Business Challenge:** *Which city offers a better value for travel?*
-* **The Applied Solution:** Created a multidimensional cross-comparison matrix mapping average overall ratings directly against average property pricing structures. The data identifies **Paris** as a primary market leader in volume and user engagement, but proves that high customer demand in this region is tightly linked to cost savings—as traditional hotel options command rates nearly twice the cost of a comparable Airbnb listing.
-
----
-
 ## 🔸 Self-Driven Independent Objectives (My Custom Extensions)
 
-Beyond the standard challenge questions, the dashboard introduces a brand-new, self-driven analytical module built to extract deep revenue insights:
+Beyond answering the standard dataset requirements, the dashboard introduces a completely independent, custom analytical module built from scratch to extract deep revenue optimization insights:
 
-### 5. Advanced Price & Room Analysis Architecture
-* **The Core Insight:** Independently conceptualized and engineered a new analytical module tracking the cross-section of guest capacity limits against structural property pricing. The data proves that while standard property rates scale in a highly predictable, steady line for smaller groups of 1 to 6 guests, major pricing premiums suddenly manifest at even-numbered accommodation capacities of **10, 12, and 14 guests**. This reveals a highly lucrative, high-margin premium segment tailored for luxury group stays.
+### 2. Core Pricing Drivers & Property Attribute Assessment
+* **The Custom Insight & Data Narrative:** Independently engineered a dedicated page tracking the exact cross-section of guest capacity limits, inventory categories, and pricing structures to uncover hidden high-margin thresholds.
+  * **The Capacity Premium:** While standard rental prices scale in a highly predictable, steady line for standard groups of 1 to 6 guests, massive pricing premiums suddenly manifest at even-numbered accommodation capacities of **10, 12, and 14 guests**. This isolates a highly lucrative, low-supply luxury segment tailored specifically for premium group events and villa stays.
+  * **Inventory Distribution Mix:** Modeled custom-segmented room type parameters to determine global supply dominance. The model isolates an **Entire Home Dominance** across the platform at 65%, proving a heavy traveler preference for complete space privacy. Concurrently, private room inventory maintains a steady 31% market share, acting as the vital budget-friendly anchor keeping the platform competitive for solo travelers.
 
-### 6. Inventory Mix & Market Share Modeling
-* **The Core Insight:** Built an independent distribution model using custom-segmented room type parameters to determine platform dominance. The model exposes an **Entire Home Dominance** across the global ecosystem at 65%, highlighting a massive traveler preference for complete space privacy. Simultaneously, it isolates private room inventory at a solid 31% market share, demonstrating its role as a vital financial safety net for budget-conscious solo travelers.
+#### 📊 Custom Price & Room Analysis Visualization:
+![Price and Room Analysis](Price_Room_Analysis.png)
+
+---
