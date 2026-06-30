@@ -6,9 +6,8 @@ An interactive Power BI dashboard analyzing global hospitality market trends, pr
 ## 📊 Dashboard & Project Access
 
 - **🚀 Live Interactive Dashboard:** [View Live Report Here](https://app.powerbi.com/view?r=eyJrIjoiZmZlOGZkMGMtNWY2Zi00NGQ3LWEzNzQtMDZjNjU1MDM2ODU1IiwidCI6ImRkM2U0NjExLWJlMjktNDg2ZC05ODdkLTViYjE2NzEwZjBhZCJ9)
-- **🎬 Presentation & Walkthrough Video:** [Watch Video Here](INSERT_YOUR_LINKEDIN_VIDEO_LINK_HERE)
+- **🎬 Presentation & Walkthrough Video:** [Watch Video Here](https://www.linkedin.com/posts/djyotsna09_dataanalytics-businessintelligence-powerbi-ugcPost-7477611871173369856-EIwZ/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7477612054254682112&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHnFNAB_uork4dUr-h6feRmQup2pOVDcxE)
 - **💾 Open-Source Dataset:** [Access Maven Analytics Dataset Here](https://mavenanalytics.io/data-playground/airbnb-listings-reviews)
-- **📂 Power BI Project File:** Uploaded directly to this repository as a `.pbix` file (download to view full technical configurations and modeling).
 
 ---
 
